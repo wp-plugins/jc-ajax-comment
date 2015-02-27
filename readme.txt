@@ -1,4 +1,4 @@
-=== JC Recaptcha ===
+=== JC Ajax Comments ===
 Contributors: webdesignjc
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=25BYCRDE6D2PW
 Tags: ajax comments, ajax comment, ajax comments form, ajax comment form, error message ajax
