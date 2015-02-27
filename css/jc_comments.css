@@ -1,0 +1,10 @@
+.jc-modal{background: none repeat scroll 0 0 #ffffff;border-radius: 8px;bottom: 0;box-shadow: 0 0 5px;height: 90px;left: 0;margin: auto;padding: 10px;position: fixed;right: 0;text-align: center;top: 0;width: 300px;display: none;}
+.jc-modal div.error{display: table;height: 100%;vertical-align: middle;width: 100%;}
+.jc-modal div.error span{display: table-cell;vertical-align:middle;text-align: center;}
+.jc-modal > img{background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;border: 0 none !important;cursor: pointer;height: 30px;padding: 0 !important;position: absolute;right: -6px;top: -6px;width: 30px;display: block;}
+
+
+
+
+.error{background:url("../img/error.gif");}
+.success{background:url("../img/sucess.gif");}
