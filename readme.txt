@@ -30,7 +30,9 @@ Ajax functionality to comments, this plugin makes the error message is displayed
 
 == Screenshots ==
 
-1. Example result
+1. Example comments form
+2. Example error comment
+3. Example success comment
 
 == Changelog ==
 
