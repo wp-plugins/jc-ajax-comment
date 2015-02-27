@@ -33,7 +33,8 @@ Ajax functionality to comments, this plugin makes the error message is displayed
 1. Example comments form
 2. Example error comment
 3. Example success comment
-
+3. Example woocommerce comment form
+3. Example success woocommerce comment
 == Changelog ==
 
 
